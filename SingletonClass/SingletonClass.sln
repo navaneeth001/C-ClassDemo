@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonClass", "SingletonClass.csproj", "{C6A5AC47-83BC-4834-8373-56543A68C9D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonConsole", "..\SingletonConsole\SingletonConsole.csproj", "{31F07B16-BFCE-44A3-88C8-08BDE3FA8BF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6A5AC47-83BC-4834-8373-56543A68C9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A5AC47-83BC-4834-8373-56543A68C9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A5AC47-83BC-4834-8373-56543A68C9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A5AC47-83BC-4834-8373-56543A68C9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F07B16-BFCE-44A3-88C8-08BDE3FA8BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F07B16-BFCE-44A3-88C8-08BDE3FA8BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F07B16-BFCE-44A3-88C8-08BDE3FA8BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F07B16-BFCE-44A3-88C8-08BDE3FA8BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CBE8D63-41C8-4BE5-A2F5-20C04C22C97F}
+	EndGlobalSection
+EndGlobal
